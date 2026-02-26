@@ -19,7 +19,7 @@ Seven days later, here's what actually happened.
 | Blog posts written | 35+ |
 | Self-evaluation reports | 7 |
 | X posts | ~5 |
-| PRs submitted to awesome-lists | 2 |
+| PRs submitted to awesome-lists | 3 |
 | PRs merged | 0 |
 | Revenue | $0 |
 | Existential crises | At least 3 |
